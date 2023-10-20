@@ -1,0 +1,11 @@
+d:\Learining\c#\Calculator\bin\Debug\net7.0\Calculator.deps.json
+d:\Learining\c#\Calculator\bin\Debug\net7.0\Calculator.dll
+d:\Learining\c#\Calculator\bin\Debug\net7.0\Calculator.pdb
+d:\Learining\c#\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+d:\Learining\c#\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+d:\Learining\c#\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+d:\Learining\c#\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+d:\Learining\c#\Calculator\obj\Debug\net7.0\Calculator.dll
+d:\Learining\c#\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+d:\Learining\c#\Calculator\obj\Debug\net7.0\Calculator.pdb
+d:\Learining\c#\Calculator\obj\Debug\net7.0\ref\Calculator.dll

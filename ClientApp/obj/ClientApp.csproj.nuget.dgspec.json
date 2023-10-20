@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Learining\\c#\\ClientApp\\ClientApp.csproj": {}
+  },
+  "projects": {
+    "d:\\Learining\\c#\\ClientApp\\ClientApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Learining\\c#\\ClientApp\\ClientApp.csproj",
+        "projectName": "ClientApp",
+        "projectPath": "d:\\Learining\\c#\\ClientApp\\ClientApp.csproj",
+        "packagesPath": "C:\\Users\\sanjayram.ag\\.nuget\\packages\\",
+        "outputPath": "d:\\Learining\\c#\\ClientApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanjayram.ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "d:\\Learining\\c#\\LIbraryTutorial\\LIbraryTutorial.csproj": {
+                "projectPath": "d:\\Learining\\c#\\LIbraryTutorial\\LIbraryTutorial.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Learining\\c#\\LIbraryTutorial\\LIbraryTutorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Learining\\c#\\LIbraryTutorial\\LIbraryTutorial.csproj",
+        "projectName": "LIbraryTutorial",
+        "projectPath": "d:\\Learining\\c#\\LIbraryTutorial\\LIbraryTutorial.csproj",
+        "packagesPath": "C:\\Users\\sanjayram.ag\\.nuget\\packages\\",
+        "outputPath": "d:\\Learining\\c#\\LIbraryTutorial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanjayram.ag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

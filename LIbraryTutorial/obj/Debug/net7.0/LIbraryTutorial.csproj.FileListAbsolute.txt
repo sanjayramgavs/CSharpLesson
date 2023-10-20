@@ -1,0 +1,11 @@
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\LIbraryTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\LIbraryTutorial.AssemblyInfoInputs.cache
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\LIbraryTutorial.AssemblyInfo.cs
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\LIbraryTutorial.csproj.CoreCompileInputs.cache
+D:\Learining\c#\LIbraryTutorial\bin\Debug\net7.0\LIbraryTutorial.deps.json
+D:\Learining\c#\LIbraryTutorial\bin\Debug\net7.0\LIbraryTutorial.dll
+D:\Learining\c#\LIbraryTutorial\bin\Debug\net7.0\LIbraryTutorial.pdb
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\LIbraryTutorial.dll
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\refint\LIbraryTutorial.dll
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\LIbraryTutorial.pdb
+D:\Learining\c#\LIbraryTutorial\obj\Debug\net7.0\ref\LIbraryTutorial.dll

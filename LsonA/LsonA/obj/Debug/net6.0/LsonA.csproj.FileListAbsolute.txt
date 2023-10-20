@@ -1,0 +1,14 @@
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\bin\Debug\net6.0\LsonA.exe
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\bin\Debug\net6.0\LsonA.deps.json
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\bin\Debug\net6.0\LsonA.runtimeconfig.json
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\bin\Debug\net6.0\LsonA.dll
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\bin\Debug\net6.0\LsonA.pdb
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\LsonA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\LsonA.AssemblyInfoInputs.cache
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\LsonA.AssemblyInfo.cs
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\LsonA.csproj.CoreCompileInputs.cache
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\LsonA.dll
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\refint\LsonA.dll
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\LsonA.pdb
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\LsonA.genruntimeconfig.cache
+C:\Users\sanjayram.ag\Learining\c#\LsonA\LsonA\obj\Debug\net6.0\ref\LsonA.dll
